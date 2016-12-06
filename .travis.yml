@@ -17,8 +17,7 @@ matrix:
 
   fast_finish: true
 
-sudo: required
-dist: trusty
+osx_image: xcode8.2
 
 cache:
   directories:
